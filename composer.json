@@ -1,5 +1,5 @@
 {
-    "name": "mazur301/segment",
+    "name": "salesmessage/segment",
     "description": "A Segment bridge for Laravel",
     "keywords": ["segment", "bridge", "segment.com", "segment.io", "api", "Alt Three"],
     "license": "MIT",
